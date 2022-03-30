@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010915202561",
+    "project_id": "kirkuk-emall",
+    "storage_bucket": "kirkuk-emall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010915202561:android:ae5cfd4f2b45ab841f9200",
+        "android_client_info": {
+          "package_name": "com.app.kirkukelmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010915202561-cpgrjbpu1umnrjadqnd31tdps80eqccj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk6JqwtPrUBTr3kGOm8gXcfLXc7kSHIdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010915202561-cpgrjbpu1umnrjadqnd31tdps80eqccj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
